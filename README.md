@@ -48,7 +48,7 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 | `d.w`                      	 | [Blank]                    | Displays weapon guides 			| d.w Skyward Blade 		|
 | `d.server`                     | [Blank]                    | Provides a link to the [support server] | g.help			|
 | `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| g.yt 	    |
-| `d.ig`                     	 | [Blank]                    | Provides a link to the [@celestia.guides Instagram](https://bit.ly/cele-ig) | g.ig  |
+| `d.ig`                     	 | [Blank]                    | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| g.ig  |
 | `d.twitch`                     | [Blank]                    | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  |
 
 
