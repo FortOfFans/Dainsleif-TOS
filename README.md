@@ -43,28 +43,14 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 | Command                        | Arguments                  | Description                                                                                                                                                                          | Example                              |
 | ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-| `d.help`                      | [Blank]                    | Displays the bot's help command | d.help                             |
-| `d.c`                      | [Blank]                    | Displays characters guides | d.c Bennett |
-| `d.w`                      | [Blank]                    | Displays weapon guides | d.w Skyward Blade                              |
-| `d.server`                       | [Blank]                    | Provides a link to the support server                                                                                                                                                         | g.help                               |
-| `d.yt`                       | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://www.youtube.com/channel/UCpbcJWPghWocsPb27XnUHkA)                                                                                                                                                        | g.info                               |
-| `d.ig`                     | [Blank]                    | Provides a link to the [@celestia.guides Instagram](https://www.instagram.com/celestia.guides/) page                                                                    | g.invite                             |
-| `d.twitch`                     | [Blank]                    | Shows your inbox, be sure to claim your rewards!                                                                                                 | g.mail                             |
-| `g.profile`                     | [Blank]                    | Brings up the profile of the user and their chibis                                                                                                | g.profile                             |
-| `g.reminders`                  | [Blank]                    | lists available reminders subcommands(adding info soon)                                                                                                                              | g.reminders                          |
-| `g.reminders c`                | [Blank]                    | ALIASES c, chars, characters. Brings up the menu for character selection                                                                                                             | g.reminders chars                    |
-| `g.reminders weapons`          | [Blank]                    | ALIASES overrides. Brings manual selection for week days for reminders                                                                                                               | g.reminders weapons                  |
-| `g.reminders vote`          | [Blank]                    | Enable or disable vote reminders                                                                                                              | g.reminders vote                  |
-| `g.reminders farms`            | [Blank]                    | ALIASES daily brings the daily tasks to choose and be reminded of, this is super handy                                                                                                | g.reminders daily                    |
-| `g.reminders timezone`            | [Blank]                    | ALIASES time, zone, servers. Select your time region at which the bot will consider a new day to remind you about the next day's reminders                                                                                                | g.reminders timezone                    |
-| `g.resin`            | [0-160]                    | Adds a timer that will remind you based on how much resin you want to wait for                                                                                                | g.resin 40                   |
-| `g.resources`            | [Resource-Name]                    | A Genshin resource to be searched, will bring routes that you should farm to gather that specific resource quickly                                                                                                | g.resource snapdragon                   |
-| `g.routes`            | [Blank]                    |Shows some of the popular farming routes for Genshin, handy if you are grinding high level characters                                                                                                | g.routes                   |
-| `g.simulator`            | [Blank]                    |Genshin impact wish simulator                                                                                               | g.simulator                   |
-| `g.sub`                        | [Blank]                    | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia)                                          | g.sub                                |
-| `g.unsub`                      | [Blank]                    | Disable reminders to be sent when you start genshin                                                                                                                                  | g.unsub                              |
-| `g.wiki`                         | [Character_Name]                    | Brings up a indepth wiki and builds regarding the searched character                                                                                                                     | g.wiki Klee                                 |
-| `g.wish`                         | [Blank]                    | Brings the brand new Chibi gacha minigame using primogems                                                                                                            | g.wish                                 |
+| `d.help`                       | [Blank]                    | Displays the bot's help command 	| d.help 			|
+| `d.c`                     	 | [Blank]                    | Displays characters guides 		| d.c Bennett 			|
+| `d.w`                      	 | [Blank]                    | Displays weapon guides 			| d.w Skyward Blade 		|
+| `d.server`                     | [Blank]                    | Provides a link to the [support server] | g.help			|
+| `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| g.yt 	    |
+| `d.ig`                     	 | [Blank]                    | Provides a link to the [@celestia.guides Instagram](https://bit.ly/cele-ig) | g.ig  |
+| `d.twitch`                     | [Blank]                    | Shows your inbox, be sure to claim your rewards!			| d.twitch  |
+
 
 
 # Contributors
