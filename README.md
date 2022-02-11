@@ -41,7 +41,7 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 ## Discord Commands
 
-| Command                        | Arguments                  | Description                                                                                                                                                                          | Example                              |
+| Command                        | Arguments                  | Command Execution                                                                                                                                                                          | Example                              |
 | ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 | `d.help`                       | [Blank]                    | Displays the bot's help command 	| d.help 			|
 | `d.c`                     	 | [Blank]                    | Displays characters guides 		| d.c Bennett 			|
@@ -49,7 +49,7 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 | `d.server`                     | [Blank]                    | Provides a link to the [support server] | g.help			|
 | `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| g.yt 	    |
 | `d.ig`                     	 | [Blank]                    | Provides a link to the [@celestia.guides Instagram](https://bit.ly/cele-ig) | g.ig  |
-| `d.twitch`                     | [Blank]                    | Shows your inbox, be sure to claim your rewards!			| d.twitch  |
+| `d.twitch`                     | [Blank]                    | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  |
 
 
 
