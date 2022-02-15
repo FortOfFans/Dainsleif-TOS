@@ -37,7 +37,7 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 #### We store following data: 
 
-- Your Wish history, which you submit voluntarily gets stored permanentaly for your own benefits.
+- Your Wish history, which you submit voluntarily.
 
 ## Discord Commands
 
