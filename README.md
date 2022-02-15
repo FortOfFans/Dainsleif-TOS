@@ -12,7 +12,6 @@ Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=872528
 
 [![Discord Shield](https://discord.com/api/guilds/847884308353122396/widget.png?style=shield)](https://discord.gg/worldofteyvat)
 
-<iframe src="https://discord.com/widget?id=879736618569855046&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 #### Features
 
 - Character Ascension Guides [!c name]
