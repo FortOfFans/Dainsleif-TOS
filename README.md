@@ -47,14 +47,14 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 | `d.c`                     	 | [Blank]                    | Displays characters guides 						| d.c Bennett 			|
 | `d.w`                      	 | [Blank]                    | Displays weapon guides 							| d.w Skyward Blade 		|
 | `d.server`                     | [Blank]                    | Provides a link to the [support server] 				| d.help			|
-| `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| g.yt 	    			|
-| `d.ig`                     	 | [Blank]                    | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| g.ig  			|
+| `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| d.yt 	    			|
+| `d.ig`                     	 | [Blank]                    | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| d.ig  			|
 | `d.twitch`                     | [Blank]                    | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  			|
 
 
 
 # Contributors
 
-- Paloys (Paloys#7527) - Wish history command creator
-- a-bakedpotato (ја сам кромпир#5172) - Bot Template / Developer 
+- Paloys (Paloys#7527)
+- a-bakedpotato (ја сам кромпир#5172)
 - WorldOfTeyvat - Providing Guides: [Twitter](https://twitter.com/WorldOfTeyvat?s=09)
