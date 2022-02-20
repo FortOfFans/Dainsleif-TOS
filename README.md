@@ -1,6 +1,6 @@
 # Dainsleif Bot - Genshin Guides
 
-The bot runs on Disord.js 
+The bot runs on Discord.js 
 
 A bot made to act as an archive for the Guides created by [WorldOfTeyvat - Twitter](https://twitter.com/WorldOfTeyvat)
 
@@ -41,15 +41,15 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 ## Discord Commands
 
-| Command                        | Arguments                  | Command Execution                                                                                                                                                                          | Example                              |
-| ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-| `d.help`                       | [Blank]                    | Displays the bot's help command 					| d.help 			|
-| `d.c`                     	 | [Blank]                    | Displays characters guides 						| d.c Bennett 			|
-| `d.w`                      	 | [Blank]                    | Displays weapon guides 							| d.w Skyward Blade 		|
-| `d.server`                     | [Blank]                    | Provides a link to the [support server] 				| d.help			|
-| `d.yt`                       	 | [Blank]                    | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| d.yt 	    			|
-| `d.ig`                     	 | [Blank]                    | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| d.ig  			|
-| `d.twitch`                     | [Blank]                    | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  			|
+| Command                        | Command Execution                                                    | Example                       |
+| ------------------------------ | ---------------------------|-----------------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| `d.help`                       | Displays the bot's help command 					| d.help 			|
+| `d.c`                     	 | Displays characters guides 						| d.c Bennett 			|
+| `d.w`                      	 | Displays weapon guides 						| d.w Skyward Blade 		|
+| `d.server`                     | Provides a link to the [support server] 				| d.help			|
+| `d.yt`                       	 | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| d.yt 	    			|
+| `d.ig`                     	 | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| d.ig  			|
+| `d.twitch`                     | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  			|
 
 
 
