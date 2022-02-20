@@ -14,9 +14,9 @@ Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=872528
 
 #### Features
 
-- Character Ascension Guides [!c name]
-- Character Build Guides [!c name]
-- Weapon Materials Info [!w name]
+- Character Ascension Guides [d.c name]
+- Character Build Guides [d.c name]
+- Weapon Materials Info [d.w name]
 
 #### Bot Video Tutorial
 
