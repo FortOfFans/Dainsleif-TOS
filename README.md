@@ -17,19 +17,20 @@ Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=872528
 - Character Ascension Guides [!c name]
 - Character Build Guides [!c name]
 - Weapon Materials Info [!w name]
-- Player wish-history (DM bot !wish)
-- Resin refill time Reminder & Notifications
-- Domain Schedule Info & Notifications (coming soon)
-- Announcements when genshin has new updates/blog posts
-
 
 #### Bot Video Tutorial
 
 - Watch the full [Bot breakdown video](https://youtu.be/b4pmqyxYuQ4)
 
-#### Planned upcoming Features
+#### Planned upcoming Features (Slash commands)
 
--
+- Announcements when genshin has new updates/blog posts
+- Domain Update notifier
+- Domain Schedule Info & Notifications
+- Player wish-history (DM bot !wish)
+- Resin refill time Reminder & Notifications
+- Domain Schedule Info & Notifications (coming soon)
+
 
 ### Need Help?
 
