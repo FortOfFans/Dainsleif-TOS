@@ -1,8 +1,8 @@
-# Dainsleif Bot - Genshin Guides
+# Dainsleif Bot - Genshin Impact Cheat Sheets
 
-The bot runs on Discord.js 
+The bot currently runs on Discord.js 
 
-A bot made to act as an archive for the Guides created by [WorldOfTeyvat - Twitter](https://twitter.com/WorldOfTeyvat)
+A bot made to act as an archive for the Cheat Sheets created by [WorldOfTeyvat - Twitter](https://twitter.com/WorldOfTeyvat)
 
 # Add the bot to your server
 
@@ -14,9 +14,9 @@ Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=872528
 
 #### Features
 
-- Character Ascension Guides [d.c name]
-- Character Build Guides [d.c name]
-- Weapon Materials Info [d.w name]
+- Character Ascension Cheat Sheets[d.c name]
+- Character Build Cheat Sheets[d.c name]
+- Weapon Materials Info Cheat Sheets[d.w name]
 
 #### Bot Video Tutorial
 
@@ -45,8 +45,8 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 | Command                        | Command Execution                                                    | Example                       |
 | ------------------------------ | -------------------------------------------------------------------- | ----------------------------- |
 | `d.help`                       | Displays the bot's help command 					| d.help 			|
-| `d.c`                     	 | Displays characters guides 						| d.c Bennett 			|
-| `d.w`                      	 | Displays weapon guides 						| d.w Skyward Blade 		|
+| `d.c`                     	 | Displays characters cheat sheets					| d.c Bennett 			|
+| `d.w`                      	 | Displays weapon cheat sheets						| d.w Skyward Blade 		|
 | `d.server`                     | Provides a link to the [support server] 				| d.help			|
 | `d.yt`                       	 | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| d.yt 	    			|
 | `d.ig`                     	 | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| d.ig  			|
