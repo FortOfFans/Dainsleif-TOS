@@ -44,13 +44,9 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 | Command                        | Command Execution                                                    | Example                       |
 | ------------------------------ | -------------------------------------------------------------------- | ----------------------------- |
-| `d.help`                       | Displays the bot's help command 					| d.help 			|
-| `d.c`                     	 | Displays characters cheat sheets					| d.c Bennett 			|
-| `d.w`                      	 | Displays weapon cheat sheets						| d.w Skyward Blade 		|
-| `d.server`                     | Provides a link to the [support server] 				| d.help			|
-| `d.yt`                       	 | Provides a link to the [FortOfFans YouTube](https://bit.ly/FortYT) 	| d.yt 	    			|
-| `d.ig`                     	 | Provides a link to the [Guides Instagram](https://bit.ly/cele-ig) 	| d.ig  			|
-| `d.twitch`                     | Provides a link to the [FortOfFans Twitch](https://twitch.tv/FortOfFans)| d.twitch  			|
+| /dain `command:`help           | Displays the bot's help command 					| d.help 			|
+| /dain `command:`c           	 | Displays characters cheat sheets					| d.c Bennett 			|
+| /dain `command:`w		 | Displays weapon cheat sheets						| d.w Skyward Blade 		|
 
 
 
