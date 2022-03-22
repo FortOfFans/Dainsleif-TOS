@@ -45,8 +45,8 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 | Command                        | Command Execution                                                    | Example                       |
 | ------------------------------ | -------------------------------------------------------------------- | ----------------------------- |
 | /dain `command:`help           | Displays the bot's help command 					| d.help 			|
-| /dain `command:`c           	 | Displays characters cheat sheets					| d.c Bennett 			|
-| /dain `command:`w		 | Displays weapon cheat sheets						| d.w Skyward Blade 		|
+| /dain `command:`c           	 | Displays characters cheat sheets					| /dain `command:`c bennett     |
+| /dain `command:`w		 | Displays weapon cheat sheets						| /dain `command:`w The Flute   |
 
 
 
